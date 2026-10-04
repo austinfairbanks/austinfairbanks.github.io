@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "snapshot_date": "2026-10-04",
+  "repository": "austinfairbanks.github.io",
+  "source_commit": "c4457fc8328fa57ca91ed16de15d21cfbf3f7f29",
+  "source_branch": "main",
+  "scope": "Agent-neutral summaries and restart context; no raw sessions, hidden reasoning, credentials, data or model artifacts.",
+  "threads": [],
+  "other_workspace_sessions": []
+}
